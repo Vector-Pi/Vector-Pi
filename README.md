@@ -4,7 +4,7 @@ I am Om Arora, an Aspiring Mathematician, Independent Researcher, Python/C++ Dev
 
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Developing Model-Simulations of Emergence of Space-Time guided by my research on Quantum Geometric Entanglement Theory.<br><br>👯 **I’m looking to collaborate on:**  <br> Multiscale Entanglement Renormalization Ansatz<br><br>🌱 **I’m currently learning:**  <br>Advance DSA, Graph Algorithms and Optimization.<br><br>💬 **Ask me about:**  <br>Olympiad and Higher math(till whatever ik), physics and any python, c++ or bash related problem.<br><br>⚡ **Fun fact:**  <br>I love math.
+🔭 **I’m currently working on:**  <br>Developing Model-Simulations of Emergence of Space-Time guided by my research on Quantum Geometric Entanglement Theory.<br><br> **I’m currently learning:**  <br>Advance DSA, Graph Algorithms and Optimization.<br><br>💬 **Ask me about:**  <br>Olympiad and Higher math(till whatever ik), physics and any python, c++ or bash related problem.<br><br>⚡ **Fun fact:**  <br>I love math.
 
 
 ## 🌐 Socials:
