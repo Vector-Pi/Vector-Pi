@@ -4,9 +4,13 @@ I am Om Arora, an Aspiring Mathematician, Independent Researcher, Python/C++ Dev
 
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Developing Model-Simulations of Emergence of Space-Time guided by my research on Quantum Geometric Entanglement Theory.<br><br> **I’m currently learning:**  <br>Advance DSA, Graph Algorithms and Optimization.<br><br>💬 **Ask me about:**  <br>Olympiad and Higher math(till whatever ik), physics and any python, c++ or bash related problem.<br><br>⚡ **Fun fact:**  <br>I love math.
+As a dedicated student, I am building a strong foundation in advanced problem-solving and analytical thinking.<br>
 
+My technical skills are centered on practical implementation, with proficient development experience in Python and C++. This computational ability directly fuels my deep fascination with higher mathematics, particularly the elegant complexities of Combinatorics.<br>
 
+I am actively exploring the intersection of theoretical mathematics and physics through research. I have contributed on published papers, including a novel theoretical approach to Yang-Mills theory incorporating a new scalar field and an exploration into the quantum origin of spacetime. This work reflects my commitment to tackling fundamental questions at the frontiers of knowledge.<br>
+
+I am keen to connect with researchers, academics, and developers who share interests in mathematical physics, competitive programming, and cutting-edge theoretical exploration.<br><br> 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/VectorPi3747) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/omarora374/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-arora-5968a626b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31712918/vectorpi) 
 
