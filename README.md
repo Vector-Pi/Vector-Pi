@@ -12,13 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Vector-Pi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-Pi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Academic Profiles
+[[Academia]](https://independent.academia.edu/OmArora6)<br>
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=APjjwuZdvW-9EsKme5rZ1lW8BVQrm6B9OhomnjspEV1cURqfu1TQyuxl6EXdx3aBWGGsLDZNHpvTzGrm4vQR6w&user=_zc8PVgAAAAJ)<br>
+[[ResearchGate]](https://www.researchgate.net/profile/Om-Arora?ev=hdr_xprf)<br>
+[[Figshare]](https://figshare.com/authors/Om_Arora/16020704)<br>
+[[ORCID]](https://orcid.org/0009-0007-4151-7945)<br>
+[[OSF]](https://osf.io/vs8tn/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vector-Pi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vector-Pi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
