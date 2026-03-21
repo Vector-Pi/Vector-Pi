@@ -1,24 +1,78 @@
-# 💫 About Me:
-**👨‍💻 Currently working on**: Implementing a neural network from scratch with NumPy to deepen my understanding of transformer architectures.<br> **🤝 Looking to collaborate on**: Interdisciplinary projects at the intersection of theoretical physics, ML, and data visualization.<br>**🛟 Looking for help with**: Optimizing C++ code for high-performance numerical simulations.<br>**📚 Currently learning**: The Qiskit framework for quantum circuit simulation.<br>**💬 Ask me about**: Theoretical physics (Yang-Mills, quantum gravity), mathematical physics, and Olympiad problem-solving.<br>**⚡ Fun fact**: I can derive the Schrödinger equation but still struggle to keep my desk organized.
+# Om Arora
 
+Independent researcher working at the intersection of theoretical physics, pure mathematics, and quantitative finance.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omarora3747) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-arora-5968a626b)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VectorPi3747) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarora3747@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=plastic&logo=windi-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vector-Pi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vector-Pi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-Pi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## Active Research
+
+**Yang-Mills Gauge Theory — Mass Gap Problem**  
+Gauge-invariant Stueckelberg extension of non-Abelian Yang-Mills theory generating gauge boson mass without spontaneous symmetry breaking. Full BRST cohomology of the extended action; one-loop renormalisation; asymptotic freedom preserved. One approach to the mass gap — one of the Clay Millennium Prize Problems.  
+→ [Zenodo preprint](https://doi.org/10.5281/zenodo.19057338)
+
+**Topological Fragmentation Index**  
+Persistent homology of rolling equity correlation networks as a cross-sectional alpha factor. Vietoris-Rips filtration on S&P 500 correlation distance matrices; total H₁ persistence defines the TFI. Validated in Fama-MacBeth regressions with walk-forward out-of-sample testing and combinatorial purged cross-validation. Manuscript in preparation.
+
+**Defence Protocol Translation Middleware**  
+Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation. Manuscript under review.
+
+**Quantum Geometric Entanglement Theory**  
+Entanglement-based framework for the emergence of spacetime geometry from quantum degrees of freedom. Published in IJRES (2023).  
+→ [ResearchGate](https://www.researchgate.net/publication/399859360)
+
+---
+
+## Published Work
+
+| Paper | Venue | Year |
+|-------|-------|------|
+| [A Gauge-Invariant Stueckelberg Extension of Yang-Mills Theory](https://doi.org/10.5281/zenodo.19057338) | Zenodo | 2026 |
+| [Yang-Mills Theory with a Scalar Field: A Unified Model for Confinement and Mass Gap](https://www.researchgate.net/publication/399829838) | IJRES | 2023 |
+| [Quantum Geometric Entanglement Theory](https://www.researchgate.net/publication/399859360) | IJRES | 2023 |
+| A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration | Manuscript under review | 2026 |
+| Topological Methods for Financial Market Analysis | Manuscript in preparation | 2026 |
+
+---
+
+## Computational Projects
+
+**Astronomy**
+- [`tess-pipeline`](https://github.com/Vector-Pi/tess-pipeline) — BLS transit search, 8-parameter MCMC fitting, GP detrending, TTV analysis. Validated on Pi Mensae c and WASP-126b.
+- [`cmb-planck`](https://github.com/Vector-Pi/cmb-planck) — Planck 2018 SMICA CMB power spectrum extraction, CAMB ΛCDM comparison, cosmological parameter sensitivity analysis.
+- [`varstar-classifier`](https://github.com/Vector-Pi/varstar-classifier) — Lomb-Scargle + Fourier decomposition + random forest classification of 6 variable star classes.
+- [`exomoon-ttv`](https://github.com/Vector-Pi/exomoon-ttv) — Population-level exomoon upper limits via transit timing variations.
+
+**Quantitative Finance**
+- Topological Fragmentation Index research (private — manuscript in preparation)
+
+---
+
+## Other Work
+
+**AIMO3 — AI for Mathematical Olympiads**  
+Contributing to a team of 20 mathematicians and developers building open-source AI for IMO-level mathematical reasoning with verifiable proofs. Part of the $2.2M Kaggle competition funded by XTX Markets.
+
+**Mathematical Training**  
+OTIS 2025 under Dr. Evan Chen (MIT) · Self-directed study in QFT, general relativity, algebraic topology, stochastic calculus.
+
+---
+
+## Stack
+
+**Research:** Python · R · C++ · LaTeX · GUDHI · ripser · NetworkX  
+**Astronomy:** lightkurve · astropy · batman · emcee · healpy · CAMB  
+**Finance:** pandas · NumPy · SciPy · statsmodels · scikit-learn  
+**Systems:** asyncio · UDP · Git
+
+---
 
 ## Academic Profiles
-[[Academia]](https://independent.academia.edu/OmArora6)<br>
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=APjjwuZdvW-9EsKme5rZ1lW8BVQrm6B9OhomnjspEV1cURqfu1TQyuxl6EXdx3aBWGGsLDZNHpvTzGrm4vQR6w&user=_zc8PVgAAAAJ)<br>
-[[ResearchGate]](https://www.researchgate.net/profile/Om-Arora?ev=hdr_xprf)<br>
-[[Figshare]](https://figshare.com/authors/Om_Arora/16020704)<br>
-[[ORCID]](https://orcid.org/0009-0007-4151-7945)<br>
-[[OSF]](https://osf.io/vs8tn/)
 
+[omarora.in](https://omarora.in) · [Google Scholar](https://scholar.google.com/citations?user=_zc8PVgAAAAJ) · [ORCID 0009-0007-4151-7945](https://orcid.org/0009-0007-4151-7945) · [ResearchGate](https://www.researchgate.net/profile/Om-Arora) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Arora+O) · [Academia.edu](https://independent.academia.edu/OmArora6) · [OSF](https://osf.io/vs8tn/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Email:** om@omarora.in
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vector-Pi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-Pi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
