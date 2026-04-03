@@ -14,7 +14,8 @@ Gauge-invariant Stueckelberg extension of non-Abelian Yang-Mills theory generati
 Persistent homology of rolling equity correlation networks as a cross-sectional alpha factor. Vietoris-Rips filtration on S&P 500 correlation distance matrices; total H₁ persistence defines the TFI. Validated in Fama-MacBeth regressions with walk-forward out-of-sample testing and combinatorial purged cross-validation. Manuscript in preparation.
 
 **Defence Protocol Translation Middleware**  
-Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation. Manuscript under review.
+Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation.
+→ [Zenodo preprint](https://doi.org/10.5281/zenodo.19363710)
 
 **Quantum Geometric Entanglement Theory**  
 Entanglement-based framework for the emergence of spacetime geometry from quantum degrees of freedom. Published in IJRES (2023).  
@@ -29,7 +30,7 @@ Entanglement-based framework for the emergence of spacetime geometry from quantu
 | [A Gauge-Invariant Stueckelberg Extension of Yang-Mills Theory](https://doi.org/10.5281/zenodo.19057338) | Zenodo | 2026 |
 | [Yang-Mills Theory with a Scalar Field: A Unified Model for Confinement and Mass Gap](https://www.researchgate.net/publication/399829838) | IJRES | 2023 |
 | [Quantum Geometric Entanglement Theory](https://www.researchgate.net/publication/399859360) | IJRES | 2023 |
-| A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration | Manuscript under review | 2026 |
+| A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration | [Zenodo preprint](https://doi.org/10.5281/zenodo.19363710)| 2026 |
 | Topological Methods for Financial Market Analysis | Manuscript in preparation | 2026 |
 
 ---
@@ -73,6 +74,3 @@ OTIS 2025 under Dr. Evan Chen (MIT) · Self-directed study in QFT, general relat
 **Email:** om@omarora.in
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vector-Pi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-Pi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
