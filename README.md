@@ -30,7 +30,7 @@ Entanglement-based framework for the emergence of spacetime geometry from quantu
 | [A Gauge-Invariant Stueckelberg Extension of Yang-Mills Theory](https://doi.org/10.5281/zenodo.19057338) | Zenodo | 2026 |
 | [Yang-Mills Theory with a Scalar Field: A Unified Model for Confinement and Mass Gap](https://www.researchgate.net/publication/399829838) | IJRES | 2023 |
 | [Quantum Geometric Entanglement Theory](https://www.researchgate.net/publication/399859360) | IJRES | 2023 |
-| A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration | [Zenodo preprint](https://doi.org/10.5281/zenodo.19363710)| 2026 |
+| [A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration](https://doi.org/10.5281/zenodo.19363710) | Zenodo| 2026 |
 | Topological Methods for Financial Market Analysis | Manuscript in preparation | 2026 |
 
 ---
