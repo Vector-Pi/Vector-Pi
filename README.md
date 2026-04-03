@@ -14,7 +14,7 @@ Gauge-invariant Stueckelberg extension of non-Abelian Yang-Mills theory generati
 Persistent homology of rolling equity correlation networks as a cross-sectional alpha factor. Vietoris-Rips filtration on S&P 500 correlation distance matrices; total H₁ persistence defines the TFI. Validated in Fama-MacBeth regressions with walk-forward out-of-sample testing and combinatorial purged cross-validation. Manuscript in preparation.
 
 **Defence Protocol Translation Middleware**  
-Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation.
+Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation.  
 → [Zenodo preprint](https://doi.org/10.5281/zenodo.19363710)
 
 **Quantum Geometric Entanglement Theory**  
