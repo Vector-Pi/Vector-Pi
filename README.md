@@ -47,4 +47,4 @@ India has world-class research talent and almost none of the machinery that turn
 
 ### Elsewhere
 
-[omarora.in](https://omarora.in) · [Google Scholar](https://scholar.google.com/citations?user=_zc8PVgAAAAJ) · [ORCID](https://orcid.org/0009-0007-4151-7945) · [LinkedIn](https://www.linkedin.com/in/omarora-5968a626b) · [X](https://x.com/VectorPi3747)
+[omarora.in](https://omarora.in) · [Google Scholar](https://scholar.google.com/citations?user=_zc8PVgAAAAJ) · [ORCID](https://orcid.org/0009-0007-4151-7945) · [LinkedIn](https://www.linkedin.com/in/omarora-5968a626b) · [X](https://x.com/_oarora)
