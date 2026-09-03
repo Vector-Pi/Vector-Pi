@@ -1,76 +1,50 @@
-# Om Arora
+## Om Arora
 
-Independent researcher working at the intersection of theoretical physics, pure mathematics, and quantitative finance.
+Researcher and founder. Gauge theory, quantum architecture, quantitative finance, and the companies that turn any of it into something people can use.
 
----
+I price things. Some of them are gauge fields, some of them are companies. The discipline is closer than either camp likes to admit: state the claim, find the thing that would break it, and do not believe yourself until you have tried.
 
-## Active Research
+Most of my research output is papers rather than repositories. What is here is the part with code attached.
 
-**Yang-Mills Gauge Theory — Mass Gap Problem**  
-Gauge-invariant Stueckelberg extension of non-Abelian Yang-Mills theory generating gauge boson mass without spontaneous symmetry breaking. Full BRST cohomology of the extended action; one-loop renormalisation; asymptotic freedom preserved. One approach to the mass gap — one of the Clay Millennium Prize Problems.  
-→ [Zenodo preprint](https://doi.org/10.5281/zenodo.19057338)
+### Research
 
-**Topological Fragmentation Index**  
-Persistent homology of rolling equity correlation networks as a cross-sectional alpha factor. Vietoris-Rips filtration on S&P 500 correlation distance matrices; total H₁ persistence defines the TFI. Validated in Fama-MacBeth regressions with walk-forward out-of-sample testing and combinatorial purged cross-validation. Manuscript in preparation.
+**Gauge theory and the Yang-Mills mass gap.** A group-valued Stueckelberg extension of Yang-Mills theory with full BRST quantisation, one-loop renormalisation in the MS scheme, and asymptotic freedom preserved. Current work is the two-loop structure and the Gribov problem.
+[10.5281/zenodo.19057338](https://doi.org/10.5281/zenodo.19057338)
 
-**Defence Protocol Translation Middleware**  
-Software-defined architecture bridging MIL-STD-1553B avionics and STANAG 4586 unmanned systems. Gap analysis of 49 field-level incompatibilities; protocol-agnostic Common Internal Representation reducing N(N−1) translation paths to 2N adapter implementations. Sub-millisecond latency validated via asyncio simulation.  
-→ [Zenodo preprint](https://doi.org/10.5281/zenodo.19363710)
+**Defence systems interoperability.** A software-defined, protocol-agnostic translation layer between MIL-STD-1553B and STANAG 4586 that collapses N x (N-1) integration complexity into 2N, with per-field audit logging and no dependency on foreign proprietary hardware.
+[10.5281/zenodo.19363710](https://doi.org/10.5281/zenodo.19363710)
 
-**Quantum Geometric Entanglement Theory**  
-Entanglement-based framework for the emergence of spacetime geometry from quantum degrees of freedom. Published in IJRES (2023).  
-→ [ResearchGate](https://www.researchgate.net/publication/399859360)
+**Econophysics and market microstructure.** A review across thirteen sections and roughly one hundred references: random matrix theory, Hawkes processes, regime detection, and topological methods.
+[10.5281/zenodo.19552994](https://doi.org/10.5281/zenodo.19552994)
 
----
+**Quantum gravity.** Entanglement correlations as the structure from which spacetime emerges.
+[10.6084/m9.figshare.24560755](https://doi.org/10.6084/m9.figshare.24560755)
 
-## Published Work
+**Yang-Mills with a scalar field.** The first paper, written in grade 9. A Stueckelberg-type mechanism for confinement and the mass gap. The ideas hold up better than the mathematics does, and I have written publicly about which parts do not.
+[10.6084/m9.figshare.23301395](https://doi.org/10.6084/m9.figshare.23301395)
 
-| Paper | Venue | Year |
-|-------|-------|------|
-| [A Gauge-Invariant Stueckelberg Extension of Yang-Mills Theory](https://doi.org/10.5281/zenodo.19057338) | Zenodo | 2026 |
-| [Yang-Mills Theory with a Scalar Field: A Unified Model for Confinement and Mass Gap](https://www.researchgate.net/publication/399829838) | IJRES | 2023 |
-| [Quantum Geometric Entanglement Theory](https://www.researchgate.net/publication/399859360) | IJRES | 2023 |
-| [A Software-Defined Protocol Translation Architecture for Multi-Domain Defence Asset Integration](https://doi.org/10.5281/zenodo.19363710) | Zenodo| 2026 |
-| Topological Methods for Financial Market Analysis | Manuscript in preparation | 2026 |
+### Code here
 
----
+Astronomy and time-series work, where the methods overlap almost exactly with what I do in quantitative research. Finding a weak periodic signal in noise and finding a weak statistical regularity in a near-random walk are the same problem with different adversaries.
 
-## Computational Projects
+| | |
+|---|---|
+| [tess-pipeline](https://github.com/Vector-Pi/tess-pipeline) | TESS light curve pipeline: transit search, MCMC fitting, detrending, exomoon analysis |
+| [exomoon-ttv](https://github.com/Vector-Pi/exomoon-ttv) | Population-level exomoon upper limits from TESS transit timing variations |
+| [cmb-power-spec-analysis](https://github.com/Vector-Pi/cmb-power-spec-analysis) | CMB power spectrum extraction from Planck 2018 data, compared against LCDM |
+| [varstar-classifier](https://github.com/Vector-Pi/varstar-classifier) | Variable star classification via Lomb-Scargle period estimation and random forests |
+| [Vector-Pass](https://github.com/Vector-Pi/Vector-Pass) | Password generation, checking, storage and management |
 
-**Astronomy**
-- [`tess-pipeline`](https://github.com/Vector-Pi/tess-pipeline) — BLS transit search, 8-parameter MCMC fitting, GP detrending, TTV analysis. Validated on Pi Mensae c and WASP-126b.
-- [`cmb-planck`](https://github.com/Vector-Pi/cmb-planck) — Planck 2018 SMICA CMB power spectrum extraction, CAMB ΛCDM comparison, cosmological parameter sensitivity analysis.
-- [`varstar-classifier`](https://github.com/Vector-Pi/varstar-classifier) — Lomb-Scargle + Fourier decomposition + random forest classification of 6 variable star classes.
-- [`exomoon-ttv`](https://github.com/Vector-Pi/exomoon-ttv) — Population-level exomoon upper limits via transit timing variations.
+### Building
 
-**Quantitative Finance**
-- Topological Fragmentation Index research (private — manuscript in preparation)
+**Gungnir Dynamics.** Deeptech in India, across space, defence systems, electronics and artificial intelligence. One spine runs through all five: each attacks a place where India buys a capability it is fully capable of owning, and where the thing being bought is software or architecture rather than anything needing a billion dollar plant.
 
----
+**Aorizon.** Research and development delivered as a service to companies that need a research function they cannot staff, plus investment consulting. Both came out of watching the same two failures repeat: good technology with no research discipline behind it, and capital that cannot evaluate what it is buying.
 
-## Other Work
+Also building research infrastructure, an operating system for researchers, and running a society that puts Indian researchers in front of students and runs international olympiads.
 
-**AIMO3 — AI for Mathematical Olympiads**  
-Contributing to a team of 20 mathematicians and developers building open-source AI for IMO-level mathematical reasoning with verifiable proofs. Part of the $2.2M Kaggle competition funded by XTX Markets.
+India has world-class research talent and almost none of the machinery that turns research into companies, products, or returns. Everyone complains about this. Very few people are building the machinery.
 
-**Mathematical Training**  
-OTIS 2025 under Dr. Evan Chen (MIT) · Self-directed study in QFT, general relativity, algebraic topology, stochastic calculus.
+### Elsewhere
 
----
-
-## Stack
-
-**Research:** Python · R · C++ · LaTeX · GUDHI · ripser · NetworkX  
-**Astronomy:** lightkurve · astropy · batman · emcee · healpy · CAMB  
-**Finance:** pandas · NumPy · SciPy · statsmodels · scikit-learn  
-**Systems:** asyncio · UDP · Git
-
----
-
-## Academic Profiles
-
-[omarora.in](https://omarora.in) · [Google Scholar](https://scholar.google.com/citations?user=_zc8PVgAAAAJ) · [ORCID 0009-0007-4151-7945](https://orcid.org/0009-0007-4151-7945) · [ResearchGate](https://www.researchgate.net/profile/Om-Arora) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Arora+O) · [Academia.edu](https://independent.academia.edu/OmArora6) · [OSF](https://osf.io/vs8tn/)
-
-**Email:** om@omarora.in
-
----
+[omarora.in](https://omarora.in) · [Google Scholar](https://scholar.google.com/citations?user=_zc8PVgAAAAJ) · [ORCID](https://orcid.org/0009-0007-4151-7945) · [LinkedIn](https://www.linkedin.com/in/omarora-5968a626b) · [X](https://x.com/VectorPi3747)
